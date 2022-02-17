@@ -3,10 +3,10 @@ https://docs.github.com/en/get-started/importing-your-projects-to-github/importi
 
 tl;dr
 
-#Initialize
+# Initialize
 $ git commit -b main
 
-#Stage and commit initial
+# Stage and commit initial
 $ git add .
 $ git commit -m "initial commit"
 
@@ -16,5 +16,5 @@ $ git remote add origin  <REMOTE_URL>
 # Verify the new remote URL
 $ git remote -v
 
-#push changes to new main branch
+# Push changes to new main branch
 $ git push origin main
