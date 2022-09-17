@@ -4,7 +4,7 @@ https://docs.github.com/en/get-started/importing-your-projects-to-github/importi
 tl;dr
 
 # Initialize
-$ git commit -b main
+$ git init -b main
 
 # Stage and commit initial
 $ git add .
